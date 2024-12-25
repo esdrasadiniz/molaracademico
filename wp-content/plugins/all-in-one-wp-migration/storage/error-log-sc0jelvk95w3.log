@@ -1,0 +1,3 @@
+Dec 25 2024 15:26:29
+{"type":8192,"message":"Creation of dynamic property Kava_Theme_Setup::$layout is deprecated","file":"C:\\Users\\esdra\\Local Sites\\molaracademico\\app\\public\\wp-content\\themes\\kava\\config\\layout.php","line":11}
+

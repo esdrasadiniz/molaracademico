@@ -1,0 +1,14 @@
+# Ignorar arquivos de configuração sensíveis
+wp-config.php
+.env
+
+# Ignorar diretórios de uploads do WordPress
+wp-content/uploads/
+
+# Ignorar diretórios de cache
+wp-content/cache/
+wp-content/backups/
+
+# Ignorar arquivos temporários criados pelo editor
+*~ 
+*.swp
